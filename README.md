@@ -2,9 +2,7 @@
 
 A terminal command which can be run from anywhere on system and creates a .csv to record the wake-up times in the mornings.
 
-NOTE: There is no need to create a file log.csv file manually. 
-
-Place the python file anywhere you want and run it with following command. 
+Place the python file anywhere you want and run it the with following command. 
 
 ```python
 python PATH_TO_FILE earlymoring TIME
@@ -18,3 +16,5 @@ python /User/shubhdeepsarkar/Developer/habit_checker/main.py earlymoring 7:30
 ```
 
 It is recommended to create an alias of this command for ease of use.
+
+NOTE: There is no need to create a file log.csv file manually. 
