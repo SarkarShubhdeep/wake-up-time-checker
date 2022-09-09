@@ -19,4 +19,4 @@ python /User/shubhdeepsarkar/Developer/habit_checker/main.py earlymorning 7:30
 
 It is recommended to create an alias of this command for ease of use.
 
-NOTE: There is no need to create a file log.csv file manually. 
+NOTE: There is no need to create the file log.csv file manually. 
