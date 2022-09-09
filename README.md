@@ -4,7 +4,7 @@ A terminal command which can be run from anywhere on system and creates a .csv t
 
 NOTE: There is no need to create a file log.csv file manually. 
 
-Place the python file anywhere you want and run ti with following command. 
+Place the python file anywhere you want and run it with following command. 
 
 ```python
 python PATH_TO_FILE earlymoring TIME
