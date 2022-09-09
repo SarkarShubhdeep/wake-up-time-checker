@@ -14,7 +14,7 @@ TIME argument must be entered in 24 hr format.
 python /User/shubhdeepsarkar/Developer/habit_checker/main.py earlymorning 7:30
 ```
 ```
-> Entry #1: Today is Sep-09-2022, and you woke up at 10:30.
+> Entry #1: Today is Sep-09-2022, and you woke up at 7:30.
 ```
 
 It is recommended to create an alias of this command for ease of use.
