@@ -45,5 +45,4 @@ def earlymorning(wakeuptime):
 
 if __name__ == '__main__':
     globals()[sys.argv[1]](sys.argv[2])
-    # earlymorning("1
-    # 0:30")
+
