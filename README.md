@@ -20,3 +20,8 @@ python /User/shubhdeepsarkar/Developer/habit_checker/main.py earlymorning 7:30
 It is recommended to create an alias of this command for ease of use.
 
 NOTE: There is no need to create a file log.csv file manually. 
+
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
